@@ -120,7 +120,7 @@ Resets the interface and prepares the app for new image processing.
 ## 📌 7. GUI Preview
 
 ### Application Screenshot
-![PCB Defect Detection](PCB%20Defect%20Detection.png)
+![PCB Defect Detection](https://github.com/shinde-abhay/PCB-Fault-Detection-Using-CNN-/blob/main/Fault%20detection%20of%20pcb.png)
 
 *(Place your project screenshot inside your GitHub repo as shown above.)*
 
